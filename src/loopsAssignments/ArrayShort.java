@@ -7,7 +7,7 @@ public class ArrayShort {
 		
 		for(int i=0;i<=Array.length;i++) {
 			
-			for
+			
 		}
 
 	}
