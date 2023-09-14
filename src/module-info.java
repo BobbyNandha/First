@@ -5,5 +5,5 @@
  * @author Dell
  *
  */
-module loopsAssignments {
+module loopsAssignmentss {
 }
